@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Clike De La Chance",
+        "path": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\clike de la chance.py",
+        "description": "Aucune description fournie.",
+        "icon": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Demineur",
+        "path": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\demineur.py",
+        "description": "Aucune description fournie.",
+        "icon": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Deviner Le Mots",
+        "path": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\deviner le mots.py",
+        "description": "Aucune description fournie.",
+        "icon": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Deviner Le Nombre",
+        "path": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\deviner le nombre.py",
+        "description": "Aucune description fournie.",
+        "icon": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Jeux Du Serpent",
+        "path": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\jeux du serpent.py",
+        "description": "Aucune description fournie.",
+        "icon": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Pierre Feuille Ciseaux",
+        "path": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\pierre feuille ciseaux.py",
+        "description": "Aucune description fournie.",
+        "icon": "C:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Clike De La Chance",
+        "path": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\clike de la chance.py",
+        "description": "Aucune description fournie.",
+        "icon": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Demineur",
+        "path": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\demineur.py",
+        "description": "Aucune description fournie.",
+        "icon": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Deviner Le Mots",
+        "path": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\deviner le mots.py",
+        "description": "Aucune description fournie.",
+        "icon": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Deviner Le Nombre",
+        "path": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\deviner le nombre.py",
+        "description": "Aucune description fournie.",
+        "icon": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Jeux Du Serpent",
+        "path": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\jeux du serpent.py",
+        "description": "Aucune description fournie.",
+        "icon": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    },
+    {
+        "name": "Pierre Feuille Ciseaux",
+        "path": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\jeux\\pierre feuille ciseaux.py",
+        "description": "Aucune description fournie.",
+        "icon": "c:\\Users\\Utilisateur\\Desktop\\jeux en python\\images\\default_game_icon.png",
+        "requires": []
+    }
+]

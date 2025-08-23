@@ -1,0 +1,136 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 452, in _on_enter
+    self.enable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 408, in enable_scrolling
+    self._add_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 376, in _add_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 458, in _on_leave
+    self.disable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 414, in disable_scrolling
+    self._del_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 394, in _del_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 452, in _on_enter
+    self.enable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 408, in enable_scrolling
+    self._add_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 376, in _add_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 458, in _on_leave
+    self.disable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 414, in disable_scrolling
+    self._del_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 394, in _del_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 452, in _on_enter
+    self.enable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 408, in enable_scrolling
+    self._add_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 376, in _add_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 458, in _on_leave
+    self.disable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 414, in disable_scrolling
+    self._del_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 394, in _del_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 452, in _on_enter
+    self.enable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 408, in enable_scrolling
+    self._add_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 376, in _add_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 458, in _on_leave
+    self.disable_scrolling()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 414, in disable_scrolling
+    self._del_scroll_binding(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\scrolled.py", line 394, in _del_scroll_binding
+    children = parent.winfo_children()
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1201, in winfo_children
+    self.tk.call('winfo', 'children', self._w)):
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: bad window path name ".!frame2.!frame2.!frame2.!scrolledframe"
