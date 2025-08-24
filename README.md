@@ -1,86 +1,88 @@
 # Dodoxi - Lanceur de Jeux
-![Dodoxi Logo](https://raw.githubusercontent.com/Dodo13500/dodoxy/main/images/default_icon.png)
 
-**Dodoxi** est un lanceur de jeux moderne, élégant et hautement personnalisable, conçu pour organiser et lancer votre collection de jeux développés en Python. Construit avec Python et `ttkbootstrap`, il offre une interface riche en fonctionnalités et une expérience utilisateur fluide.
+ <!-- Remplacez par une vraie capture d'écran -->
 
-*(Insérer ici une capture d'écran de l'application)*
+**Dodoxi** est un lanceur de jeux moderne, personnalisable et open-source, écrit en Python avec Tkinter et ttkbootstrap. Il est conçu pour organiser, lancer et suivre vos jeux Python de manière élégante et efficace.
 
 ## ✨ Fonctionnalités
 
--   **Bibliothèque Intelligente :**
-    -   **Scan Automatique :** Détecte et ajoute automatiquement les jeux (`.py`) dans le dossier de votre choix.
-    -   **Vues Multiples :** Affichez vos jeux en mode **Grille** visuelle ou en **Liste** compacte.
-    -   **Recherche et Tri Avancés :** Retrouvez facilement vos jeux grâce à la recherche instantanée et aux multiples options de tri (Nom A-Z/Z-A, Plus/Moins joué, Plus/Moins récent, Mieux/Moins bien noté).
-    -   **Filtres Puissants :** Filtrez votre bibliothèque par favoris, catégories ou collections personnalisées.
-    -   **Dépendances de Jeu :** Spécifiez les modules Python requis par vos jeux ; Dodoxi vous proposera de les installer automatiquement si nécessaire.
-
--   **Personnalisation Poussée :**
-    -   **Thèmes Dynamiques :** Choisissez parmi plus de 15 thèmes prédéfinis ou **créez le vôtre** avec l'éditeur de couleurs intégré.
-    -   **Apparence Flexible :** Personnalisez le fond d'écran (image ou dégradé), la taille de la police, l'arrondi des angles des boutons et la visibilité des barres de défilement.
-    -   **Animations Fluides :** Profitez de transitions animées entre les pages (glissement ou fondu) et d'effets de révélation pour les nouveaux éléments.
-    -   **Sons de Notification :** Activez ou désactivez les retours sonores pour les actions importantes.
-    -   **Gestion de Fenêtre :** Démarrez en plein écran et réinitialisez la position/taille de la fenêtre à tout moment.
-
--   **Suivi et Gamification :**
-    -   **Statistiques Détaillées :** Suivez votre temps de jeu total, les jeux les plus joués, les statistiques de votre bibliothèque (descriptions, icônes, jeux manquants) et exportez-les en CSV.
-    -   **Système de Succès :** Débloquez des dizaines de succès en explorant les fonctionnalités du lanceur, avec des animations de confettis pour les plus rares !
-    -   **Notation par Étoiles :** Notez vos jeux de 1 à 5 étoiles pour organiser et évaluer votre collection.
-    -   **Suggestions Intelligentes :** La section "À la une" vous propose des jeux que vous n'avez pas lancés depuis longtemps.
-
--   **Gestion Avancée :**
-    -   **Éditeur de Jeux Complet :** Modifiez facilement le nom, la description, l'icône, les dépendances, les catégories et la note de chaque jeu.
-    -   **Gestionnaire de Catégories :** Renommez ou supprimez des catégories existantes.
-    -   **Gestionnaire de Collections :** Créez, renommez et supprimez des collections pour regrouper vos jeux.
-    -   **Mode Portable :** Créez un fichier `portable.txt` à la racine pour que Dodoxi stocke toutes ses données dans un dossier local, idéal pour une clé USB.
-    -   **Outils de Maintenance :** Importez/exportez votre base de données (ZIP), créez des sauvegardes, marquez/supprimez les jeux manquants, et dédupliquez votre bibliothèque.
-    -   **Réinitialisation :** Option de réinitialisation complète de l'application ou des seuls succès.
-
--   **Connectivité :**
-    -   **Mises à Jour Automatiques :** Soyez notifié lorsqu'une nouvelle version est disponible sur GitHub.
-    -   **Notes de Version en Ligne :** La fenêtre "Nouveautés" charge dynamiquement les dernières informations depuis le dépôt.
+- **Bibliothèque de jeux** : Scanne automatiquement votre dossier de jeux et les affiche dans une vue grille ou liste.
+- **Personnalisation** :
+    - Choisissez parmi plus de 15 thèmes prédéfinis.
+    - Créez votre propre thème avec l'éditeur de couleurs intégré.
+    - Personnalisez le fond d'écran avec une image ou un dégradé.
+- **Organisation** :
+    - **Favoris** : Marquez vos jeux préférés pour un accès rapide.
+    - **Notation** : Notez vos jeux de 1 à 5 étoiles.
+    - **Collections** : Créez des collections personnalisées pour regrouper vos jeux (par genre, par série, etc.).
+    - **Catégories** : Taguez vos jeux avec des catégories pour un filtrage avancé.
+- **Suivi et Statistiques** :
+    - Temps de jeu total et par jeu.
+    - Nombre de lancements.
+    - Suivi détaillé des sessions de jeu (date, durée).
+    - Graphiques visuels pour le temps de jeu et la répartition par catégorie.
+    - Exportation des statistiques au format CSV.
+- **Système de Succès** : Débloquez des dizaines de succès en utilisant les différentes fonctionnalités du lanceur.
+- **Mode Portable** : Créez un fichier `portable.txt` à la racine pour que Dodoxi sauvegarde ses données dans un dossier `data` local, idéal pour une utilisation sur clé USB.
+- **Maintenance Facile** : Outils intégrés pour nettoyer la bibliothèque, supprimer les doublons, et gérer les données.
 
 ## 🚀 Installation
 
-Dodoxi est conçu pour être simple à lancer.
+### Prérequis
+- Python 3.8 ou plus récent
+- `pip` et `git`
 
-1.  **Prérequis :** Assurez-vous d'avoir Python 3 installé sur votre système.
+### 1. Cloner le dépôt
 
-2.  **Téléchargement :**
-    -   Clonez ce dépôt : `git clone https://github.com/Dodo13500/dodoxy.git`
-    -   Ou téléchargez le ZIP directement depuis la page Releases.
+```bash
+git clone https://github.com/Dodo13500/dodoxy.git
+cd dodoxy
+```
 
-3.  **Dépendances :**
-    Le lanceur gère ses propres dépendances. Au premier lancement, s'il manque `ttkbootstrap`, `Pillow`, `playsound`, `matplotlib` ou `platformdirs`, il vous proposera de les installer automatiquement. Sur Windows, l'installation de `matplotlib` peut nécessiter les "Outils de compilation C++" de Visual Studio.
+### 2. Installer les dépendances
 
-4.  **Lancement :**
-    Exécutez simplement le script principal :
-    ```bash
-    python lancer1.py
-    ```
+Dodoxi utilise plusieurs bibliothèques Python. Vous pouvez les installer facilement avec le fichier `requirements.txt` fourni :
+
+```bash
+pip install -r requirements.txt
+```
+
+Si vous n'avez pas les "Outils de compilation C++" de Visual Studio sur Windows, l'installation de `matplotlib` peut échouer. Dans ce cas, l'application vous proposera de les installer au premier lancement.
 
 ## 🎮 Utilisation
 
-1.  **Premier Lancement :** L'application vous demandera de sélectionner le dossier principal où se trouvent vos jeux Python.
-2.  **Scanner :** Appuyez sur **F5** ou utilisez le bouton "Scanner" sur la page "Jeux" pour ajouter de nouveaux jeux à votre bibliothèque.
-3.  **Explorer :** Naviguez entre les différentes pages (Accueil, Jeux, Succès, Paramètres, Aperçu) via la barre latérale.
-4.  **Personnaliser :** Rendez-vous dans les **Paramètres** pour changer le thème, le fond d'écran et bien plus encore !
-5.  **Raccourcis Clavier :**
-    -   `F5` : Scanner les jeux.
-    -   `Ctrl+F` : Accéder à la barre de recherche.
-    -   `F11` : Activer/désactiver le mode plein écran.
-    -   `Ctrl+R` : Lancer un jeu aléatoire.
+Pour lancer l'application, exécutez le script principal :
 
-## 📦 Mode Portable
+```bash
+python lancer1.py
+```
 
-Pour utiliser Dodoxi sur une clé USB ou sans installation permanente :
-1.  Créez un fichier texte vide nommé `portable.txt`.
-2.  Placez ce fichier dans le même dossier que `lancer1.py`.
-3.  Au prochain lancement, Dodoxi créera un dossier `data` à côté de lui pour y stocker tous les paramètres et bases de données.
+Au premier lancement, l'application vous demandera de sélectionner le dossier où se trouvent vos jeux.
+
+### Mode Portable
+
+Pour utiliser Dodoxi en mode portable (par exemple, depuis une clé USB), il suffit de créer un fichier vide nommé `portable.txt` dans le même dossier que `lancer1.py`.
+
+Lorsque ce fichier est présent, toutes les données (paramètres, base de données des jeux, etc.) seront stockées dans un sous-dossier `data`, au lieu du dossier utilisateur standard.
+
+## 🔧 Raccourcis Clavier
+
+- **F5** : Scanner le dossier des jeux.
+- **Ctrl+F** : Mettre le focus sur la barre de recherche.
+- **F11** : Activer/Désactiver le mode plein écran.
+- **Ctrl+R** : Lancer un jeu au hasard.
 
 ## 🤝 Contribution
 
-Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration ou des corrections de bugs, n'hésitez pas à ouvrir une *issue* ou à soumettre une *pull request* sur notre dépôt GitHub.
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer Dodoxi, n'hésitez pas à forker le projet et à soumettre une Pull Request.
 
-## 📜 Licence
+1. Forkez le projet.
+2. Créez votre branche de fonctionnalité (`git checkout -b feature/NouvelleFonctionnalite`).
+3. Committez vos changements (`git commit -m 'Ajout de NouvelleFonctionnalite'`).
+4. Pushez vers la branche (`git push origin feature/NouvelleFonctionnalite`).
+5. Ouvrez une Pull Request.
 
-Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+## 📄 Licence
+
+Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
+
