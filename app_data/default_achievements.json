@@ -1,0 +1,72 @@
+{
+  "first_launch": {
+    "name": "Premier Lancement",
+    "description": "Lancez votre premier jeu",
+    "icon": "🎮",
+    "unlocked_key": "achievement_first_launch",
+    "category": "Débutant"
+  },
+  "dedicated_player": {
+    "name": "Joueur Dévoué",
+    "description": "Lancez le même jeu 10 fois",
+    "icon": "🏆",
+    "unlocked_key": "achievement_dedicated_player",
+    "category": "Progression"
+  },
+  "game_master": {
+    "name": "Maître du Jeu",
+    "description": "Lancez le même jeu 50 fois",
+    "icon": "👑",
+    "unlocked_key": "achievement_game_master",
+    "category": "Expert"
+  },
+  "launcher_novice": {
+    "name": "Novice du Lanceur",
+    "description": "Lancez 10 jeux au total",
+    "icon": "🌟",
+    "unlocked_key": "achievement_launcher_novice",
+    "category": "Collection"
+  },
+  "launcher_expert": {
+    "name": "Expert du Lanceur",
+    "description": "Lancez 100 jeux au total",
+    "icon": "💎",
+    "unlocked_key": "achievement_launcher_expert",
+    "category": "Collection"
+  },
+  "game_collector": {
+    "name": "Collectionneur",
+    "description": "Ajoutez 25 jeux à votre collection",
+    "icon": "📚",
+    "unlocked_key": "achievement_game_collector",
+    "category": "Collection"
+  },
+  "early_bird": {
+    "name": "Lève-tôt",
+    "description": "Lancez un jeu avant 8h du matin",
+    "icon": "🌅",
+    "unlocked_key": "achievement_early_bird",
+    "category": "Temps"
+  },
+  "night_owl": {
+    "name": "Oiseau de Nuit",
+    "description": "Lancez un jeu après 23h",
+    "icon": "🦉",
+    "unlocked_key": "achievement_night_owl",
+    "category": "Temps"
+  },
+  "loyalty": {
+    "name": "Fidélité",
+    "description": "Utilisez l'application pendant 7 jours consécutifs",
+    "icon": "❤️",
+    "unlocked_key": "achievement_loyalty",
+    "category": "Fidélité"
+  },
+  "speed_launcher": {
+    "name": "Lanceur Rapide",
+    "description": "Lancez 5 jeux différents en moins de 2 minutes",
+    "icon": "⚡",
+    "unlocked_key": "achievement_speed_launcher",
+    "category": "Performance"
+  }
+}

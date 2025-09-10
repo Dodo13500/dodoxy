@@ -1,578 +1,597 @@
 {
-    "achievement_7": {
-        "name": "Le Débutant",
-        "desc": "Lancer votre tout premier jeu.",
-        "unlocked_key": "achievement_7_unlocked",
-        "icon_unlocked": "🚀",
-        "icon_locked": "🔒",
-        "difficulty": 1
-    },
-    "achievement_3": {
-        "name": "Le Touche-à-tout",
-        "desc": "Changer le thème de l'application.",
-        "unlocked_key": "achievement_3_unlocked",
-        "icon_unlocked": "🎨",
-        "icon_locked": "🔒",
-        "difficulty": 2
-    },
-    "achievement_chercheur": {
-        "name": "Le Chercheur",
-        "desc": "Utiliser la recherche.",
-        "unlocked_key": "achievement_chercheur_unlocked",
-        "icon_unlocked": "🔎",
-        "icon_locked": "🔒",
-        "difficulty": 3
-    },
-    "achievement_favori": {
-        "name": "Le Favori",
-        "desc": "Avoir marqué un jeu comme favori.",
-        "unlocked_key": "achievement_favori_unlocked",
-        "icon_unlocked": "⭐",
-        "icon_locked": "🔒",
-        "difficulty": 4
-    },
-    "achievement_12": {
-        "name": "L'Explorateur",
-        "desc": "Scanner le dossier des jeux pour en trouver de nouveaux.",
-        "unlocked_key": "achievement_12_unlocked",
-        "icon_unlocked": "🧭",
-        "icon_locked": "🔒",
-        "difficulty": 5
-    },
-    "achievement_identity_change": {
-        "name": "Changement d'Identité",
-        "desc": "Changer votre nom d'utilisateur.",
-        "unlocked_key": "achievement_identity_change_unlocked",
-        "icon_unlocked": "🎭",
-        "icon_locked": "🔒",
-        "difficulty": 5
-    },
-    "achievement_5": {
-        "name": "Le Collectionneur",
-        "desc": "Ajouter un nouveau jeu manuellement.",
-        "unlocked_key": "achievement_5_unlocked",
-        "icon_unlocked": "🎁",
-        "icon_locked": "🔒",
-        "difficulty": 6
-    },
-    "achievement_mode_liste": {
-        "name": "Mode Liste",
-        "desc": "Utiliser l'affichage Liste.",
-        "unlocked_key": "achievement_mode_liste_unlocked",
-        "icon_unlocked": "📋",
-        "icon_locked": "🔒",
-        "difficulty": 7
-    },
-    "achievement_8": {
-        "name": "Le Bricoleur",
-        "desc": "Modifier les détails d'un jeu.",
-        "unlocked_key": "achievement_8_unlocked",
-        "icon_unlocked": "✍️",
-        "icon_locked": "🔒",
-        "difficulty": 8
-    },
-    "achievement_11": {
-        "name": "Le Nettoyeur",
-        "desc": "Réinitialiser le fond d'écran par défaut.",
-        "unlocked_key": "achievement_11_unlocked",
-        "icon_unlocked": "🧹",
-        "icon_locked": "🔒",
-        "difficulty": 9
-    },
-    "achievement_spotlight": {
-        "name": "Sous les Projecteurs",
-        "desc": "Lancer un jeu depuis la section 'Suggestion'.",
-        "unlocked_key": "achievement_spotlight_unlocked",
-        "icon_unlocked": "💡",
-        "icon_locked": "🔒",
-        "difficulty": 10
-    },
-    "achievement_14": {
-        "name": "Le Grand Voyageur",
-        "desc": "Visiter toutes les pages de l'application.",
-        "unlocked_key": "achievement_14_unlocked",
-        "icon_unlocked": "🗺️",
-        "icon_locked": "🔒",
-        "difficulty": 11
-    },
-    "achievement_curieux": {
-        "name": "Le Curieux",
-        "desc": "Lire un conseil du jour.",
-        "unlocked_key": "achievement_curieux_unlocked",
-        "icon_unlocked": "💡",
-        "icon_locked": "🔒",
-        "difficulty": 1
-    },
-    "achievement_depanneur": {
-        "name": "Le Dépanneur",
-        "desc": "Ouvrir le fichier de log de crash.",
-        "unlocked_key": "achievement_depanneur_unlocked",
-        "icon_unlocked": "🛠️",
-        "icon_locked": "🔒",
-        "difficulty": 2
-    },
-    "achievement_architecte": {
-        "name": "L'Architecte",
-        "desc": "Ouvrir le dossier des paramètres.",
-        "unlocked_key": "achievement_architecte_unlocked",
-        "icon_unlocked": "🏗️",
-        "icon_locked": "🔒",
-        "difficulty": 2
-    },
-    "achievement_maitre_style": {
-        "name": "Maître du Style",
-        "desc": "Changer la taille de la police.",
-        "unlocked_key": "achievement_maitre_style_unlocked",
-        "icon_unlocked": "✒️",
-        "icon_locked": "🔒",
-        "difficulty": 16
-    },
-    "achievement_arrondir_angles": {
-        "name": "Arrondir les Angles",
-        "desc": "Changer le rayon des bordures.",
-        "unlocked_key": "achievement_arrondir_angles_unlocked",
-        "icon_unlocked": "✨",
-        "icon_locked": "🔒",
-        "difficulty": 17
-    },
-    "achievement_personnalisateur": {
-        "name": "Le Personnalisateur",
-        "desc": "Modifier un paramètre d'apparence.",
-        "unlocked_key": "achievement_personnalisateur_unlocked",
-        "icon_unlocked": "🖌️",
-        "icon_locked": "🔒",
-        "difficulty": 4
-    },
-    "achievement_tri_za": {
-        "name": "Le Contrarieur",
-        "desc": "Trier les jeux de Z à A.",
-        "unlocked_key": "achievement_tri_za_unlocked",
-        "icon_unlocked": "🔄",
-        "icon_locked": "🔒",
-        "difficulty": 3
-    },
-    "achievement_duplicateur": {
-        "name": "Le Cloneur",
-        "desc": "Dupliquer un jeu.",
-        "unlocked_key": "achievement_duplicateur_unlocked",
-        "icon_unlocked": "👯",
-        "icon_locked": "🔒",
-        "difficulty": 15
-    },
-    "achievement_detective": {
-        "name": "Le Détective",
-        "desc": "Ouvrir les logs et les paramètres dans la même session.",
-        "unlocked_key": "achievement_detective_unlocked",
-        "icon_unlocked": "🕵️",
-        "icon_locked": "🔒",
-        "difficulty": 16
-    },
-    "achievement_grand_tour": {
-        "name": "Le Grand Tour",
-        "desc": "Visiter les pages Profil, Stats et Suggestions.",
-        "unlocked_key": "achievement_grand_tour_unlocked",
-        "icon_unlocked": "🌍",
-        "icon_locked": "🔒",
-        "difficulty": 12
-    },
-    "achievement_minimaliste": {
-        "name": "Le Minimaliste",
-        "desc": "Supprimer 5 jeux de la bibliothèque.",
-        "unlocked_key": "achievement_minimaliste_unlocked",
-        "icon_unlocked": "🗑️",
-        "icon_locked": "🔒",
-        "difficulty": 15
-    },
-    "achievement_fidele": {
-        "name": "Le Fidèle",
-        "desc": "Lancer l'application 7 jours différents.",
-        "unlocked_key": "achievement_fidele_unlocked",
-        "icon_unlocked": "📅",
-        "icon_locked": "🔒",
-        "difficulty": 20
-    },
-    "achievement_zappeur": {
-        "name": "Le Zappeur",
-        "desc": "Lancer 3 jeux différents dans la même session.",
-        "unlocked_key": "achievement_zappeur_unlocked",
-        "icon_unlocked": "⚡",
-        "icon_locked": "🔒",
-        "difficulty": 12
-    },
-    "achievement_2": {
-        "name": "Le Joueur",
-        "desc": "Lancer 10 jeux différents.",
-        "unlocked_key": "achievement_2_unlocked",
-        "icon_unlocked": "🎮",
-        "icon_locked": "🔒",
-        "difficulty": 13
-    },
-    "achievement_15": {
-        "name": "L'Organisateur",
-        "desc": "Avoir au moins 10 jeux dans la liste.",
-        "unlocked_key": "achievement_15_unlocked",
-        "icon_unlocked": "📚",
-        "icon_locked": "🔒",
-        "difficulty": 14
-    },
-    "achievement_5_favoris": {
-        "name": "Collection de Favoris",
-        "desc": "Avoir 5 jeux en favoris.",
-        "unlocked_key": "achievement_5_favoris_unlocked",
-        "icon_unlocked": "🌟",
-        "icon_locked": "🔒",
-        "difficulty": 15
-    },
-    "achievement_16": {
-        "name": "La Plume Créative",
-        "desc": "Ajouter une description personnalisée pour un jeu.",
-        "unlocked_key": "achievement_16_unlocked",
-        "icon_unlocked": "✒️",
-        "icon_locked": "🔒",
-        "difficulty": 16
-    },
-    "achievement_critique": {
-        "name": "Le Critique",
-        "desc": "Ajouter une description à 5 jeux différents.",
-        "unlocked_key": "achievement_critique_unlocked",
-        "icon_unlocked": "🖋️",
-        "icon_locked": "🔒",
-        "difficulty": 17
-    },
-    "achievement_17": {
-        "name": "L'Icône Personnalisée",
-        "desc": "Attribuer une icône personnalisée à un jeu.",
-        "unlocked_key": "achievement_17_unlocked",
-        "icon_unlocked": "🖌️",
-        "icon_locked": "🔒",
-        "difficulty": 18
-    },
-    "achievement_archiviste": {
-        "name": "L'Archiviste",
-        "desc": "Avoir classifié un jeu avec au moins une catégorie.",
-        "unlocked_key": "achievement_archiviste_unlocked",
-        "icon_unlocked": "🗂️",
-        "icon_locked": "🔒",
-        "difficulty": 19
-    },
-    "achievement_grand_nettoyage": {
-        "name": "Le Grand Nettoyage",
-        "desc": "Utiliser 3 outils de maintenance différents.",
-        "unlocked_key": "achievement_grand_nettoyage_unlocked",
-        "icon_unlocked": "🧼",
-        "icon_locked": "🔒",
-        "difficulty": 20
-    },
-    "achievement_curateur": {
-        "name": "Le Curateur",
-        "desc": "Avoir 5 jeux avec au moins une catégorie.",
-        "unlocked_key": "achievement_curateur_unlocked",
-        "icon_unlocked": "🗃️",
-        "icon_locked": "🔒",
-        "difficulty": 21
-    },
-    "achievement_bibliothecaire": {
-        "name": "Le Bibliothécaire",
-        "desc": "Avoir au moins 5 catégories différentes.",
-        "unlocked_key": "achievement_bibliothecaire_unlocked",
-        "icon_unlocked": "🗃️",
-        "icon_locked": "🔒",
-        "difficulty": 22
-    },
-    "achievement_connoisseur": {
-        "name": "Le Connaisseur",
-        "desc": "Lancer 5 fois le même jeu.",
-        "unlocked_key": "achievement_connoisseur_unlocked",
-        "icon_unlocked": "🧐",
-        "icon_locked": "🔒",
-        "difficulty": 23
-    },
-    "achievement_night_owl": {
-        "name": "Le Noctambule",
-        "desc": "Lancer un jeu entre 22h et 4h.",
-        "unlocked_key": "achievement_night_owl_unlocked",
-        "icon_unlocked": "🦉",
-        "icon_locked": "🔒",
-        "difficulty": 24
-    },
-    "achievement_taxonomiste": {
-        "name": "Le Taxonomiste",
-        "desc": "Utiliser le gestionnaire de catégories.",
-        "unlocked_key": "achievement_taxonomiste_unlocked",
-        "icon_unlocked": "🏷️",
-        "icon_locked": "🔒",
-        "difficulty": 15
-    },
-    "achievement_polyglotte": {
-        "name": "Le Polyglotte",
-        "desc": "Changer de thème 5 fois.",
-        "unlocked_key": "achievement_polyglotte_unlocked",
-        "icon_unlocked": "✨",
-        "icon_locked": "🔒",
-        "difficulty": 25
-    },
-    "achievement_bibliophile": {
-        "name": "Le Bibliophile",
-        "desc": "Posséder 25 jeux dans sa bibliothèque.",
-        "unlocked_key": "achievement_bibliophile_unlocked",
-        "icon_unlocked": "🏛️",
-        "icon_locked": "🔒",
-        "difficulty": 26
-    },
-    "achievement_13": {
-        "name": "L'Addict",
-        "desc": "Lancer un total de 50 jeux.",
-        "unlocked_key": "achievement_13_unlocked",
-        "icon_unlocked": "🕹️",
-        "icon_locked": "🔒",
-        "difficulty": 27
-    },
-    "achievement_10_favoris": {
-        "name": "Galaxie de Favoris",
-        "desc": "Avoir 10 jeux en favoris.",
-        "unlocked_key": "achievement_10_favoris_unlocked",
-        "icon_unlocked": "🌠",
-        "icon_locked": "🔒",
-        "difficulty": 28
-    },
-    "achievement_marathonien": {
-        "name": "Le Marathonien",
-        "desc": "Atteindre 1h de jeu au total.",
-        "unlocked_key": "achievement_marathonien_unlocked",
-        "icon_unlocked": "⏱️",
-        "icon_locked": "🔒",
-        "difficulty": 29
-    },
-    "achievement_session_xl": {
-        "name": "Session XL",
-        "desc": "Jouer 30 minutes d'affilée sur un jeu.",
-        "unlocked_key": "achievement_session_xl_unlocked",
-        "icon_unlocked": "⌛",
-        "icon_locked": "🔒",
-        "difficulty": 30
-    },
-    "achievement_oiseau_de_nuit": {
-        "name": "L'Oiseau de Nuit",
-        "desc": "Lancer un jeu entre 2h et 4h du matin.",
-        "unlocked_key": "achievement_oiseau_de_nuit_unlocked",
-        "icon_unlocked": "🦇",
-        "icon_locked": "🔒",
-        "difficulty": 31
-    },
-    "achievement_pro_themes": {
-        "name": "Le Pro des Thèmes",
-        "desc": "Changer de thème 10 fois.",
-        "unlocked_key": "achievement_pro_themes_unlocked",
-        "icon_unlocked": "🌈",
-        "icon_locked": "🔒",
-        "difficulty": 32
-    },
-    "achievement_maitre_icones": {
-        "name": "Le Maître des Icônes",
-        "desc": "Attribuer une icône personnalisée à 10 jeux.",
-        "unlocked_key": "achievement_maitre_icones_unlocked",
-        "icon_unlocked": "🖼️",
-        "icon_locked": "🔒",
-        "difficulty": 33
-    },
-    "achievement_grand_archiviste": {
-        "name": "Le Grand Archiviste",
-        "desc": "Classifier 15 jeux avec au moins une catégorie.",
-        "unlocked_key": "achievement_grand_archiviste_unlocked",
-        "icon_unlocked": "🗄️",
-        "icon_locked": "🔒",
-        "difficulty": 34
-    },
-    "achievement_perfection": {
-        "name": "Le Perfectionniste",
-        "desc": "Avoir 15 jeux avec icône et description personnalisées.",
-        "unlocked_key": "achievement_perfection_unlocked",
-        "icon_unlocked": "🏆",
-        "icon_locked": "🔒",
-        "difficulty": 35
-    },
-    "achievement_ultime_joueur": {
-        "name": "L'Ultime Joueur",
-        "desc": "Lancer un total de 100 jeux.",
-        "unlocked_key": "achievement_ultime_joueur_unlocked",
-        "icon_unlocked": "🏅",
-        "icon_locked": "🔒",
-        "difficulty": 36
-    },
-    "achievement_gardien_temps": {
-        "name": "Le Gardien du Temps",
-        "desc": "Atteindre 5 heures de jeu au total.",
-        "unlocked_key": "achievement_gardien_temps_unlocked",
-        "icon_unlocked": "⏳",
-        "icon_locked": "🔒",
-        "difficulty": 37
-    },
-    "achievement_legende": {
-        "name": "La Légende",
-        "desc": "Posséder 50 jeux dans sa bibliothèque.",
-        "unlocked_key": "achievement_legende_unlocked",
-        "icon_unlocked": "📜",
-        "icon_locked": "🔒",
-        "difficulty": 38
-    },
-    "achievement_devotion": {
-        "name": "Dévotion",
-        "desc": "Lancer 10 fois le même jeu.",
-        "unlocked_key": "achievement_devotion_unlocked",
-        "icon_unlocked": "🛐",
-        "icon_locked": "🔒",
-        "difficulty": 39
-    },
-    "achievement_maitre_du_temps": {
-        "name": "Le Maître du Temps",
-        "desc": "Atteindre 10 heures de jeu au total.",
-        "unlocked_key": "achievement_maitre_du_temps_unlocked",
-        "icon_unlocked": "🕰️",
-        "icon_locked": "🔒",
-        "difficulty": 40
-    },
-    "achievement_insomniaque": {
-        "name": "L'Insomniaque",
-        "desc": "Lancer un jeu après minuit 5 jours différents.",
-        "unlocked_key": "achievement_insomniaque_unlocked",
-        "icon_unlocked": "☕",
-        "icon_locked": "🔒",
-        "difficulty": 41
-    },
-    "achievement_collectionneur_ultime": {
-        "name": "Le Collectionneur Ultime",
-        "desc": "Avoir 25 jeux en favoris.",
-        "unlocked_key": "achievement_collectionneur_ultime_unlocked",
-        "icon_unlocked": "🌌",
-        "icon_locked": "🔒",
-        "difficulty": 42
-    },
-    "achievement_1": {
-        "name": "Le Fouineur",
-        "desc": "Trouvé l'Easter Egg secret.",
-        "unlocked_key": "achievement_1_unlocked",
-        "icon_unlocked": "🤫",
-        "icon_locked": "🔒",
-        "difficulty": 98
-    },
-    "achievement_profile_view": {
-        "name": "Curieux du Profil",
-        "desc": "Visiter la page Profil.",
-        "unlocked_key": "achievement_profile_view_unlocked",
-        "icon_unlocked": "👤",
-        "icon_locked": "🔒",
-        "difficulty": 2
-    },
-    "achievement_stats_view": {
-        "name": "Analyste",
-        "desc": "Consulter la page Statistiques.",
-        "unlocked_key": "achievement_stats_view_unlocked",
-        "icon_unlocked": "📊",
-        "icon_locked": "🔒",
-        "difficulty": 3
-    },
-    "achievement_suggestion": {
-        "name": "Redécouverte",
-        "desc": "Lancer un jeu depuis Suggestions.",
-        "unlocked_key": "achievement_suggestion_unlocked",
-        "icon_unlocked": "🔁",
-        "icon_locked": "🔒",
-        "difficulty": 4
-    },
-    "achievement_exporteur": {
-        "name": "Archiviste",
-        "desc": "Exporter la base de données.",
-        "unlocked_key": "achievement_exporteur_unlocked",
-        "icon_unlocked": "📤",
-        "icon_locked": "🔒",
-        "difficulty": 5
-    },
-    "achievement_importateur": {
-        "name": "Restaurateur",
-        "desc": "Importer une base de données.",
-        "unlocked_key": "achievement_importateur_unlocked",
-        "icon_unlocked": "📥",
-        "icon_locked": "🔒",
-        "difficulty": 6
-    },
-    "achievement_backup": {
-        "name": "Sauvegarde",
-        "desc": "Créer une sauvegarde de la base.",
-        "unlocked_key": "achievement_backup_unlocked",
-        "icon_unlocked": "💾",
-        "icon_locked": "🔒",
-        "difficulty": 4
-    },
-    "achievement_repair_data": {
-        "name": "Réparateur",
-        "desc": "Réparer/normaliser la base de données.",
-        "unlocked_key": "achievement_repair_data_unlocked",
-        "icon_unlocked": "🛠️",
-        "icon_locked": "🔒",
-        "difficulty": 6
-    },
-    "achievement_mark_missing": {
-        "name": "Traqueur",
-        "desc": "Marquer les jeux introuvables.",
-        "unlocked_key": "achievement_mark_missing_unlocked",
-        "icon_unlocked": "📍",
-        "icon_locked": "🔒",
-        "difficulty": 4
-    },
-    "achievement_deduplicate": {
-        "name": "Zéro Doublons",
-        "desc": "Dédoublonner la bibliothèque.",
-        "unlocked_key": "achievement_deduplicate_unlocked",
-        "icon_unlocked": "🧹",
-        "icon_locked": "🔒",
-        "difficulty": 5
-    },
-    "achievement_fix_icons": {
-        "name": "Styliste",
-        "desc": "Réparer les icônes manquantes.",
-        "unlocked_key": "achievement_fix_icons_unlocked",
-        "icon_unlocked": "🖼️",
-        "icon_locked": "🔒",
-        "difficulty": 4
-    },
-    "achievement_ui_polish": {
-        "name": "La Finition",
-        "desc": "Appliquer une option d'apparence (polish UI).",
-        "unlocked_key": "achievement_ui_polish_unlocked",
-        "icon_unlocked": "✨",
-        "icon_locked": "🔒",
-        "difficulty": 2
-    },
-    "achievement_collectionneur_complet": {
-        "name": "Le Collectionneur Complet",
-        "desc": "Débloquer tous les autres succès.",
-        "unlocked_key": "achievement_collectionneur_complet_unlocked",
-        "icon_unlocked": "👑",
-        "icon_locked": "🔒",
-        "difficulty": 99
-    },
-    "achievement_maniaque": {
-        "name": "Le Maniaque",
-        "desc": "Avoir une bibliothèque sans aucun jeu introuvable.",
-        "unlocked_key": "achievement_maniaque_unlocked",
-        "icon_unlocked": "✨",
-        "icon_locked": "🔒",
-        "difficulty": 25
-    },
-    "achievement_explorateur_ultime": {
-        "name": "L'Explorateur Ultime",
-        "desc": "Posséder plus de 20 jeux dans la bibliothèque.",
-        "unlocked_key": "achievement_explorateur_ultime_unlocked",
-        "icon_unlocked": "🗺️",
-        "icon_locked": "🔒",
-        "difficulty": 22
-    },
-    "achievement_maitre_du_hasard": {
-        "name": "Maître du Hasard",
-        "desc": "Lancer un jeu aléatoire 10 fois.",
-        "unlocked_key": "achievement_maitre_du_hasard_unlocked",
-        "icon_unlocked": "🎲",
-        "icon_locked": "🔒",
-        "difficulty": 18
-    }
+  "achievement_7": {
+    "name": "Le Débutant",
+    "desc": "Lancer votre tout premier jeu.",
+    "unlocked_key": "achievement_7_unlocked",
+    "icon_unlocked": "🚀",
+    "icon_locked": "🔒",
+    "difficulty": 1
+  },
+  "achievement_3": {
+    "name": "Le Touche-à-tout",
+    "desc": "Changer le thème de l'application.",
+    "unlocked_key": "achievement_3_unlocked",
+    "icon_unlocked": "🎨",
+    "icon_locked": "🔒",
+    "difficulty": 2
+  },
+  "achievement_chercheur": {
+    "name": "Le Chercheur",
+    "desc": "Utiliser la recherche.",
+    "unlocked_key": "achievement_chercheur_unlocked",
+    "icon_unlocked": "🔎",
+    "icon_locked": "🔒",
+    "difficulty": 3
+  },
+  "achievement_favori": {
+    "name": "Le Favori",
+    "desc": "Avoir marqué un jeu comme favori.",
+    "unlocked_key": "achievement_favori_unlocked",
+    "icon_unlocked": "⭐",
+    "icon_locked": "🔒",
+    "difficulty": 4
+  },
+  "achievement_12": {
+    "name": "L'Explorateur",
+    "desc": "Scanner le dossier des jeux pour en trouver de nouveaux.",
+    "unlocked_key": "achievement_12_unlocked",
+    "icon_unlocked": "🧭",
+    "icon_locked": "🔒",
+    "difficulty": 5
+  },
+  "achievement_identity_change": {
+    "name": "Changement d'Identité",
+    "desc": "Changer votre nom d'utilisateur.",
+    "unlocked_key": "achievement_identity_change_unlocked",
+    "icon_unlocked": "🎭",
+    "icon_locked": "🔒",
+    "difficulty": 5
+  },
+  "achievement_5": {
+    "name": "Le Collectionneur",
+    "desc": "Ajouter un nouveau jeu manuellement.",
+    "unlocked_key": "achievement_5_unlocked",
+    "icon_unlocked": "🎁",
+    "icon_locked": "🔒",
+    "difficulty": 6
+  },
+  "achievement_mode_liste": {
+    "name": "Mode Liste",
+    "desc": "Utiliser l'affichage Liste.",
+    "unlocked_key": "achievement_mode_liste_unlocked",
+    "icon_unlocked": "📋",
+    "icon_locked": "🔒",
+    "difficulty": 7
+  },
+  "achievement_8": {
+    "name": "Le Bricoleur",
+    "desc": "Modifier les détails d'un jeu.",
+    "unlocked_key": "achievement_8_unlocked",
+    "icon_unlocked": "✍️",
+    "icon_locked": "🔒",
+    "difficulty": 8
+  },
+  "achievement_11": {
+    "name": "Le Nettoyeur",
+    "desc": "Réinitialiser le fond d'écran par défaut.",
+    "unlocked_key": "achievement_11_unlocked",
+    "icon_unlocked": "🧹",
+    "icon_locked": "🔒",
+    "difficulty": 9
+  },
+  "achievement_spotlight": {
+    "name": "Sous les Projecteurs",
+    "desc": "Lancer un jeu depuis la section 'Suggestion'.",
+    "unlocked_key": "achievement_spotlight_unlocked",
+    "icon_unlocked": "💡",
+    "icon_locked": "🔒",
+    "difficulty": 10
+  },
+  "achievement_14": {
+    "name": "Le Grand Voyageur",
+    "desc": "Visiter toutes les pages de l'application.",
+    "unlocked_key": "achievement_14_unlocked",
+    "icon_unlocked": "🗺️",
+    "icon_locked": "🔒",
+    "difficulty": 11
+  },
+  "achievement_curieux": {
+    "name": "Le Curieux",
+    "desc": "Lire un conseil du jour.",
+    "unlocked_key": "achievement_curieux_unlocked",
+    "icon_unlocked": "💡",
+    "icon_locked": "🔒",
+    "difficulty": 1
+  },
+  "achievement_depanneur": {
+    "name": "Le Dépanneur",
+    "desc": "Ouvrir le fichier de log de crash.",
+    "unlocked_key": "achievement_depanneur_unlocked",
+    "icon_unlocked": "🛠️",
+    "icon_locked": "🔒",
+    "difficulty": 2
+  },
+  "achievement_architecte": {
+    "name": "L'Architecte",
+    "desc": "Ouvrir le dossier des paramètres.",
+    "unlocked_key": "achievement_architecte_unlocked",
+    "icon_unlocked": "🏗️",
+    "icon_locked": "🔒",
+    "difficulty": 2
+  },
+  "achievement_maitre_style": {
+    "name": "Maître du Style",
+    "desc": "Changer la taille de la police.",
+    "unlocked_key": "achievement_maitre_style_unlocked",
+    "icon_unlocked": "✒️",
+    "icon_locked": "🔒",
+    "difficulty": 16
+  },
+  "achievement_arrondir_angles": {
+    "name": "Arrondir les Angles",
+    "desc": "Changer le rayon des bordures.",
+    "unlocked_key": "achievement_arrondir_angles_unlocked",
+    "icon_unlocked": "✨",
+    "icon_locked": "🔒",
+    "difficulty": 17
+  },
+  "achievement_personnalisateur": {
+    "name": "Le Personnalisateur",
+    "desc": "Modifier un paramètre d'apparence.",
+    "unlocked_key": "achievement_personnalisateur_unlocked",
+    "icon_unlocked": "🖌️",
+    "icon_locked": "🔒",
+    "difficulty": 4
+  },
+  "achievement_tri_za": {
+    "name": "Le Contrarieur",
+    "desc": "Trier les jeux de Z à A.",
+    "unlocked_key": "achievement_tri_za_unlocked",
+    "icon_unlocked": "🔄",
+    "icon_locked": "🔒",
+    "difficulty": 3
+  },
+  "achievement_duplicateur": {
+    "name": "Le Cloneur",
+    "desc": "Dupliquer un jeu.",
+    "unlocked_key": "achievement_duplicateur_unlocked",
+    "icon_unlocked": "👯",
+    "icon_locked": "🔒",
+    "difficulty": 15
+  },
+  "achievement_detective": {
+    "name": "Le Détective",
+    "desc": "Ouvrir les logs et les paramètres dans la même session.",
+    "unlocked_key": "achievement_detective_unlocked",
+    "icon_unlocked": "🕵️",
+    "icon_locked": "🔒",
+    "difficulty": 16
+  },
+  "achievement_grand_tour": {
+    "name": "Le Grand Tour",
+    "desc": "Visiter les pages Profil, Stats et Suggestions.",
+    "unlocked_key": "achievement_grand_tour_unlocked",
+    "icon_unlocked": "🌍",
+    "icon_locked": "🔒",
+    "difficulty": 12
+  },
+  "achievement_minimaliste": {
+    "name": "Le Minimaliste",
+    "desc": "Supprimer 5 jeux de la bibliothèque.",
+    "unlocked_key": "achievement_minimaliste_unlocked",
+    "icon_unlocked": "🗑️",
+    "icon_locked": "🔒",
+    "difficulty": 15
+  },
+  "achievement_fidele": {
+    "name": "Le Fidèle",
+    "desc": "Lancer l'application 7 jours différents.",
+    "unlocked_key": "achievement_fidele_unlocked",
+    "icon_unlocked": "📅",
+    "icon_locked": "🔒",
+    "difficulty": 20
+  },
+  "achievement_zappeur": {
+    "name": "Le Zappeur",
+    "desc": "Lancer 3 jeux différents dans la même session.",
+    "unlocked_key": "achievement_zappeur_unlocked",
+    "icon_unlocked": "⚡",
+    "icon_locked": "🔒",
+    "difficulty": 12
+  },
+  "achievement_2": {
+    "name": "Le Joueur",
+    "desc": "Lancer 10 jeux différents.",
+    "unlocked_key": "achievement_2_unlocked",
+    "icon_unlocked": "🎮",
+    "icon_locked": "🔒",
+    "difficulty": 13
+  },
+  "achievement_15": {
+    "name": "L'Organisateur",
+    "desc": "Avoir au moins 10 jeux dans la liste.",
+    "unlocked_key": "achievement_15_unlocked",
+    "icon_unlocked": "📚",
+    "icon_locked": "🔒",
+    "difficulty": 14
+  },
+  "achievement_5_favoris": {
+    "name": "Collection de Favoris",
+    "desc": "Avoir 5 jeux en favoris.",
+    "unlocked_key": "achievement_5_favoris_unlocked",
+    "icon_unlocked": "🌟",
+    "icon_locked": "🔒",
+    "difficulty": 15
+  },
+  "achievement_16": {
+    "name": "La Plume Créative",
+    "desc": "Ajouter une description personnalisée pour un jeu.",
+    "unlocked_key": "achievement_16_unlocked",
+    "icon_unlocked": "✒️",
+    "icon_locked": "🔒",
+    "difficulty": 16
+  },
+  "achievement_critique": {
+    "name": "Le Critique",
+    "desc": "Ajouter une description à 5 jeux différents.",
+    "unlocked_key": "achievement_critique_unlocked",
+    "icon_unlocked": "🖋️",
+    "icon_locked": "🔒",
+    "difficulty": 17
+  },
+  "achievement_17": {
+    "name": "L'Icône Personnalisée",
+    "desc": "Attribuer une icône personnalisée à un jeu.",
+    "unlocked_key": "achievement_17_unlocked",
+    "icon_unlocked": "🖌️",
+    "icon_locked": "🔒",
+    "difficulty": 18
+  },
+  "achievement_archiviste": {
+    "name": "L'Archiviste",
+    "desc": "Avoir classifié un jeu avec au moins une catégorie.",
+    "unlocked_key": "achievement_archiviste_unlocked",
+    "icon_unlocked": "🗂️",
+    "icon_locked": "🔒",
+    "difficulty": 19
+  },
+  "achievement_grand_nettoyage": {
+    "name": "Le Grand Nettoyage",
+    "desc": "Utiliser 3 outils de maintenance différents.",
+    "unlocked_key": "achievement_grand_nettoyage_unlocked",
+    "icon_unlocked": "🧼",
+    "icon_locked": "🔒",
+    "difficulty": 20
+  },
+  "achievement_curateur": {
+    "name": "Le Curateur",
+    "desc": "Avoir 5 jeux avec au moins une catégorie.",
+    "unlocked_key": "achievement_curateur_unlocked",
+    "icon_unlocked": "🗃️",
+    "icon_locked": "🔒",
+    "difficulty": 21
+  },
+  "achievement_bibliothecaire": {
+    "name": "Le Bibliothécaire",
+    "desc": "Avoir au moins 5 catégories différentes.",
+    "unlocked_key": "achievement_bibliothecaire_unlocked",
+    "icon_unlocked": "🗃️",
+    "icon_locked": "🔒",
+    "difficulty": 22
+  },
+  "achievement_connoisseur": {
+    "name": "Le Connaisseur",
+    "desc": "Lancer 5 fois le même jeu.",
+    "unlocked_key": "achievement_connoisseur_unlocked",
+    "icon_unlocked": "🧐",
+    "icon_locked": "🔒",
+    "difficulty": 23
+  },
+  "achievement_night_owl": {
+    "name": "Le Noctambule",
+    "desc": "Lancer un jeu entre 22h et 4h.",
+    "unlocked_key": "achievement_night_owl_unlocked",
+    "icon_unlocked": "🦉",
+    "icon_locked": "🔒",
+    "difficulty": 24
+  },
+  "achievement_taxonomiste": {
+    "name": "Le Taxonomiste",
+    "desc": "Utiliser le gestionnaire de catégories.",
+    "unlocked_key": "achievement_taxonomiste_unlocked",
+    "icon_unlocked": "🏷️",
+    "icon_locked": "🔒",
+    "difficulty": 15
+  },
+  "achievement_polyglotte": {
+    "name": "Le Polyglotte",
+    "desc": "Changer de thème 5 fois.",
+    "unlocked_key": "achievement_polyglotte_unlocked",
+    "icon_unlocked": "✨",
+    "icon_locked": "🔒",
+    "difficulty": 25
+  },
+  "achievement_bibliophile": {
+    "name": "Le Bibliophile",
+    "desc": "Posséder 25 jeux dans sa bibliothèque.",
+    "unlocked_key": "achievement_bibliophile_unlocked",
+    "icon_unlocked": "🏛️",
+    "icon_locked": "🔒",
+    "difficulty": 26
+  },
+  "achievement_13": {
+    "name": "L'Addict",
+    "desc": "Lancer un total de 50 jeux.",
+    "unlocked_key": "achievement_13_unlocked",
+    "icon_unlocked": "🕹️",
+    "icon_locked": "🔒",
+    "difficulty": 27
+  },
+  "achievement_10_favoris": {
+    "name": "Galaxie de Favoris",
+    "desc": "Avoir 10 jeux en favoris.",
+    "unlocked_key": "achievement_10_favoris_unlocked",
+    "icon_unlocked": "🌠",
+    "icon_locked": "🔒",
+    "difficulty": 28
+  },
+  "achievement_marathonien": {
+    "name": "Le Marathonien",
+    "desc": "Atteindre 1h de jeu au total.",
+    "unlocked_key": "achievement_marathonien_unlocked",
+    "icon_unlocked": "⏱️",
+    "icon_locked": "🔒",
+    "difficulty": 29
+  },
+  "achievement_session_xl": {
+    "name": "Session XL",
+    "desc": "Jouer 30 minutes d'affilée sur un jeu.",
+    "unlocked_key": "achievement_session_xl_unlocked",
+    "icon_unlocked": "⌛",
+    "icon_locked": "🔒",
+    "difficulty": 30
+  },
+  "achievement_oiseau_de_nuit": {
+    "name": "L'Oiseau de Nuit",
+    "desc": "Lancer un jeu entre 2h et 4h du matin.",
+    "unlocked_key": "achievement_oiseau_de_nuit_unlocked",
+    "icon_unlocked": "🦇",
+    "icon_locked": "🔒",
+    "difficulty": 31
+  },
+  "achievement_pro_themes": {
+    "name": "Le Pro des Thèmes",
+    "desc": "Changer de thème 10 fois.",
+    "unlocked_key": "achievement_pro_themes_unlocked",
+    "icon_unlocked": "🌈",
+    "icon_locked": "🔒",
+    "difficulty": 32
+  },
+  "achievement_maitre_icones": {
+    "name": "Le Maître des Icônes",
+    "desc": "Attribuer une icône personnalisée à 10 jeux.",
+    "unlocked_key": "achievement_maitre_icones_unlocked",
+    "icon_unlocked": "🖼️",
+    "icon_locked": "🔒",
+    "difficulty": 33
+  },
+  "achievement_grand_archiviste": {
+    "name": "Le Grand Archiviste",
+    "desc": "Classifier 15 jeux avec au moins une catégorie.",
+    "unlocked_key": "achievement_grand_archiviste_unlocked",
+    "icon_unlocked": "🗄️",
+    "icon_locked": "🔒",
+    "difficulty": 34
+  },
+  "achievement_perfection": {
+    "name": "Le Perfectionniste",
+    "desc": "Avoir 15 jeux avec icône et description personnalisées.",
+    "unlocked_key": "achievement_perfection_unlocked",
+    "icon_unlocked": "🏆",
+    "icon_locked": "🔒",
+    "difficulty": 35
+  },
+  "achievement_ultime_joueur": {
+    "name": "L'Ultime Joueur",
+    "desc": "Lancer un total de 100 jeux.",
+    "unlocked_key": "achievement_ultime_joueur_unlocked",
+    "icon_unlocked": "🏅",
+    "icon_locked": "🔒",
+    "difficulty": 36
+  },
+  "achievement_gardien_temps": {
+    "name": "Le Gardien du Temps",
+    "desc": "Atteindre 5 heures de jeu au total.",
+    "unlocked_key": "achievement_gardien_temps_unlocked",
+    "icon_unlocked": "⏳",
+    "icon_locked": "🔒",
+    "difficulty": 37
+  },
+  "achievement_legende": {
+    "name": "La Légende",
+    "desc": "Posséder 50 jeux dans sa bibliothèque.",
+    "unlocked_key": "achievement_legende_unlocked",
+    "icon_unlocked": "📜",
+    "icon_locked": "🔒",
+    "difficulty": 38
+  },
+  "achievement_devotion": {
+    "name": "Dévotion",
+    "desc": "Lancer 10 fois le même jeu.",
+    "unlocked_key": "achievement_devotion_unlocked",
+    "icon_unlocked": "🛐",
+    "icon_locked": "🔒",
+    "difficulty": 39
+  },
+  "achievement_maitre_du_temps": {
+    "name": "Le Maître du Temps",
+    "desc": "Atteindre 10 heures de jeu au total.",
+    "unlocked_key": "achievement_maitre_du_temps_unlocked",
+    "icon_unlocked": "🕰️",
+    "icon_locked": "🔒",
+    "difficulty": 40
+  },
+  "achievement_insomniaque": {
+    "name": "L'Insomniaque",
+    "desc": "Lancer un jeu après minuit 5 jours différents.",
+    "unlocked_key": "achievement_insomniaque_unlocked",
+    "icon_unlocked": "☕",
+    "icon_locked": "🔒",
+    "difficulty": 41
+  },
+  "achievement_collectionneur_ultime": {
+    "name": "Le Collectionneur Ultime",
+    "desc": "Avoir 25 jeux en favoris.",
+    "unlocked_key": "achievement_collectionneur_ultime_unlocked",
+    "icon_unlocked": "🌌",
+    "icon_locked": "🔒",
+    "difficulty": 42
+  },
+  "achievement_1": {
+    "name": "Le Fouineur",
+    "desc": "Trouvé l'Easter Egg secret.",
+    "unlocked_key": "achievement_1_unlocked",
+    "icon_unlocked": "🤫",
+    "icon_locked": "🔒",
+    "difficulty": 98
+  },
+  "achievement_profile_view": {
+    "name": "Curieux du Profil",
+    "desc": "Visiter la page Profil.",
+    "unlocked_key": "achievement_profile_view_unlocked",
+    "icon_unlocked": "👤",
+    "icon_locked": "🔒",
+    "difficulty": 2
+  },
+  "achievement_stats_view": {
+    "name": "Analyste",
+    "desc": "Consulter la page Statistiques.",
+    "unlocked_key": "achievement_stats_view_unlocked",
+    "icon_unlocked": "📊",
+    "icon_locked": "🔒",
+    "difficulty": 3
+  },
+  "achievement_suggestion": {
+    "name": "Redécouverte",
+    "desc": "Lancer un jeu depuis Suggestions.",
+    "unlocked_key": "achievement_suggestion_unlocked",
+    "icon_unlocked": "🔁",
+    "icon_locked": "🔒",
+    "difficulty": 4
+  },
+  "achievement_exporteur": {
+    "name": "Archiviste",
+    "desc": "Exporter la base de données.",
+    "unlocked_key": "achievement_exporteur_unlocked",
+    "icon_unlocked": "📤",
+    "icon_locked": "🔒",
+    "difficulty": 5
+  },
+  "achievement_importateur": {
+    "name": "Restaurateur",
+    "desc": "Importer une base de données.",
+    "unlocked_key": "achievement_importateur_unlocked",
+    "icon_unlocked": "📥",
+    "icon_locked": "🔒",
+    "difficulty": 6
+  },
+  "achievement_backup": {
+    "name": "Sauvegarde",
+    "desc": "Créer une sauvegarde de la base.",
+    "unlocked_key": "achievement_backup_unlocked",
+    "icon_unlocked": "💾",
+    "icon_locked": "🔒",
+    "difficulty": 4
+  },
+  "achievement_repair_data": {
+    "name": "Réparateur",
+    "desc": "Réparer/normaliser la base de données.",
+    "unlocked_key": "achievement_repair_data_unlocked",
+    "icon_unlocked": "🛠️",
+    "icon_locked": "🔒",
+    "difficulty": 6
+  },
+  "achievement_mark_missing": {
+    "name": "Traqueur",
+    "desc": "Marquer les jeux introuvables.",
+    "unlocked_key": "achievement_mark_missing_unlocked",
+    "icon_unlocked": "📍",
+    "icon_locked": "🔒",
+    "difficulty": 4
+  },
+  "achievement_deduplicate": {
+    "name": "Zéro Doublons",
+    "desc": "Dédoublonner la bibliothèque.",
+    "unlocked_key": "achievement_deduplicate_unlocked",
+    "icon_unlocked": "🧹",
+    "icon_locked": "🔒",
+    "difficulty": 5
+  },
+  "achievement_fix_icons": {
+    "name": "Styliste",
+    "desc": "Réparer les icônes manquantes.",
+    "unlocked_key": "achievement_fix_icons_unlocked",
+    "icon_unlocked": "🖼️",
+    "icon_locked": "🔒",
+    "difficulty": 4
+  },
+  "achievement_ui_polish": {
+    "name": "La Finition",
+    "desc": "Appliquer une option d'apparence (polish UI).",
+    "unlocked_key": "achievement_ui_polish_unlocked",
+    "icon_unlocked": "✨",
+    "icon_locked": "🔒",
+    "difficulty": 2
+  },
+  "achievement_collectionneur_complet": {
+    "name": "Le Collectionneur Complet",
+    "desc": "Débloquer tous les autres succès.",
+    "unlocked_key": "achievement_collectionneur_complet_unlocked",
+    "icon_unlocked": "👑",
+    "icon_locked": "🔒",
+    "difficulty": 99
+  },
+  "achievement_maniaque": {
+    "name": "Le Maniaque",
+    "desc": "Avoir une bibliothèque sans aucun jeu introuvable.",
+    "unlocked_key": "achievement_maniaque_unlocked",
+    "icon_unlocked": "✨",
+    "icon_locked": "🔒",
+    "difficulty": 25
+  },
+  "achievement_explorateur_ultime": {
+    "name": "L'Explorateur Ultime",
+    "desc": "Posséder plus de 20 jeux dans la bibliothèque.",
+    "unlocked_key": "achievement_explorateur_ultime_unlocked",
+    "icon_unlocked": "🗺️",
+    "icon_locked": "🔒",
+    "difficulty": 22
+  },
+  "achievement_maitre_du_hasard": {
+    "name": "Maître du Hasard",
+    "desc": "Lancer un jeu aléatoire 10 fois.",
+    "unlocked_key": "achievement_maitre_du_hasard_unlocked",
+    "icon_unlocked": "🎲",
+    "icon_locked": "🔒",
+    "difficulty": 18
+  },
+  "first_launch": {
+    "name": "Premier Lancement",
+    "desc": "Lancer l'application pour la première fois",
+    "unlocked": true,
+    "icon": "🚀",
+    "unlocked_date": "26/08/2025 à 18:33"
+  },
+  "first_game": {
+    "name": "Premier Jeu",
+    "desc": "Lancer votre premier jeu",
+    "unlocked": false,
+    "icon": "🎮"
+  },
+  "theme_changer": {
+    "name": "Changeur de Thème",
+    "desc": "Changer le thème de l'application",
+    "unlocked": false,
+    "icon": "🎨"
+  }
 }

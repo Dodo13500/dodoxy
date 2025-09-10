@@ -5,3 +5,5 @@ ping pong
 echec
 dame
 golf
+pacman
+flappy bird

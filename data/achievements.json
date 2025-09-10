@@ -1,0 +1,39 @@
+{
+  "first_launch": {
+    "name": "Bienvenue!",
+    "desc": "Premier lancement",
+    "unlocked": true,
+    "icon": "🎉",
+    "date": "26/08/2025 à 18:34"
+  },
+  "first_game": {
+    "name": "Premier Jeu",
+    "desc": "Lancer votre premier jeu",
+    "unlocked": false,
+    "icon": "🚀"
+  },
+  "scanner": {
+    "name": "Explorateur",
+    "desc": "Scanner le dossier des jeux",
+    "unlocked": false,
+    "icon": "🔍"
+  },
+  "collector": {
+    "name": "Collectionneur",
+    "desc": "Avoir 10 jeux",
+    "unlocked": false,
+    "icon": "📚"
+  },
+  "theme_master": {
+    "name": "Styliste",
+    "desc": "Changer de thème",
+    "unlocked": false,
+    "icon": "🎨"
+  },
+  "random_player": {
+    "name": "Aventurier",
+    "desc": "Lancer un jeu aléatoire",
+    "unlocked": false,
+    "icon": "🎲"
+  }
+}

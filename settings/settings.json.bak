@@ -98,5 +98,10 @@
     "last_seen_version": "v0.16.3",
     "first_run": false,
     "username": "admin",
-    "view_mode": "Grille"
+    "view_mode": "Grille",
+    "window_width": 1920,
+    "window_height": 1080,
+    "window_pos_x": 0,
+    "window_pos_y": 0,
+    "background_type": "image"
 }

@@ -1,0 +1,400 @@
+2025-09-06 19:05:38 - UI finished _finish_ui_setup
+2025-09-06 19:05:38 - Scroll event but no target found: delta=1
+2025-09-06 19:05:38 - Self-test: generated <MouseWheel> on container
+2025-09-06 19:05:40 - Self-test: generated <MouseWheel> on container
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:05:43 - Scroll event but no target found: delta=-1
+2025-09-06 19:07:06 - UI finished _finish_ui_setup
+2025-09-06 19:07:06 - Scroll event but no target found: delta=1
+2025-09-06 19:07:06 - Self-test: generated <MouseWheel> on container
+2025-09-06 19:07:08 - Scroll event but no target found: delta=1
+2025-09-06 19:07:08 - Self-test: generated <MouseWheel> on container
+2025-09-06 19:57:18 - UI finished _finish_ui_setup
+2025-09-06 19:57:18 - Scroll event but no target found: delta=1
+2025-09-06 19:57:18 - Self-test: generated <MouseWheel> on container
+2025-09-06 19:57:20 - Scroll event but no target found: delta=1
+2025-09-06 19:57:20 - Self-test: generated <MouseWheel> on container
+2025-09-06 19:57:42 - Scroll event: delta=-1, target=.!frame4.!frame2.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:42 - Scroll event: delta=-1, target=.!frame4.!frame2.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:42 - Scroll event: delta=-1, target=.!frame4.!frame2.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:42 - Scroll event: delta=-1, target=.!frame4.!frame2.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:42 - Scroll event but no target found: delta=-1
+2025-09-06 19:57:42 - Scroll event but no target found: delta=-1
+2025-09-06 19:57:42 - Scroll event but no target found: delta=-1
+2025-09-06 19:57:42 - Scroll event but no target found: delta=-1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:43 - Scroll event but no target found: delta=1
+2025-09-06 19:57:44 - Scroll event but no target found: delta=1
+2025-09-06 19:57:44 - Scroll event but no target found: delta=1
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-2, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-1, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 19:57:55 - Scroll event: delta=-2, target=.!frame4.!frame4.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-06 20:00:24 - UI finished _finish_ui_setup
+2025-09-06 20:00:24 - Scroll event but no target found: delta=1
+2025-09-06 20:00:24 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:00:26 - Scroll event but no target found: delta=1
+2025-09-06 20:00:26 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:04:24 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(300x200) canvas_bbox=None
+2025-09-06 20:04:24 - Geometry dump (games): root=(8,31) size=(1x1) req=(300x200) canvas_bbox=None
+2025-09-06 20:04:24 - UI finished _finish_ui_setup
+2025-09-06 20:04:24 - Scroll event but no target found: delta=1
+2025-09-06 20:04:24 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:04:25 - Geometry dump (games): root=(168,25) size=(1232x79) req=(926x79) canvas_bbox=None
+2025-09-06 20:04:25 - Geometry dump (achievements): root=(168,25) size=(1232x124) req=(166x124) canvas_bbox=None
+2025-09-06 20:04:26 - Scroll event but no target found: delta=1
+2025-09-06 20:04:26 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:15:07 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:15:07 - Geometry dump (games): root=(8,31) size=(1x1) req=(300x200) canvas_bbox=None
+2025-09-06 20:15:07 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:15:07 - Internals dump (games): type=<class '__main__.SafeScrolledFrame'> repr=<__main__.SafeScrolledFrame object .!frame4.!frame2.!frame.!safescrolledframe> class=TFrame | attr.canvas=None | attr.container=None | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!frame.!safescrolledframe.!frame class=TFrame;.!frame4.!frame2.!frame.!safescrolledframe.!frame2 class=TFrame;.!frame4.!frame2.!frame.!safescrolledframe.!frame3 class=TFrame]
+2025-09-06 20:15:07 - UI finished _finish_ui_setup
+2025-09-06 20:15:07 - Scroll event but no target found: delta=1
+2025-09-06 20:15:07 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:15:07 - Geometry dump (games): root=(168,25) size=(1232x79) req=(926x79) canvas_bbox=None
+2025-09-06 20:15:07 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 162, 99)
+2025-09-06 20:15:07 - Internals dump (games): type=<class '__main__.SafeScrolledFrame'> repr=<__main__.SafeScrolledFrame object .!frame4.!frame2.!frame.!safescrolledframe> class=TFrame | attr.canvas=None | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!frame.!safescrolledframe.!frame class=TFrame;.!frame4.!frame2.!frame.!safescrolledframe.!frame2 class=TFrame;.!frame4.!frame2.!frame.!safescrolledframe.!frame3 class=TFrame]
+2025-09-06 20:15:07 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:15:09 - Scroll event but no target found: delta=1
+2025-09-06 20:15:09 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:34:03 - Geometry dump (games): root=(9,32) size=(199x199) req=(389x265) canvas_bbox=(-1, -1, 189, 200)
+2025-09-06 20:34:03 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:34:56 - Geometry dump (games): root=(9,32) size=(199x199) req=(389x265) canvas_bbox=(-1, -1, 189, 200)
+2025-09-06 20:34:56 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:51:20 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:51:20 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:51:20 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:51:20 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:51:20 - UI finished _finish_ui_setup
+2025-09-06 20:51:20 - Scroll event but no target found: delta=1
+2025-09-06 20:51:20 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:51:20 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(-1, -1, 1742, 1056)
+2025-09-06 20:51:20 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(-1, -1, 1742, 1056)
+2025-09-06 20:51:20 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:51:20 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:51:22 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:51:48 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=2, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:48 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:49 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:49 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:51 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-4, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-2, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:52 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:53 - Scroll event: delta=-4, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:53 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:54 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:54 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:51:54 - Scroll event: delta=1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-06 20:52:03 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:52:03 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:52:03 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:52:03 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:52:03 - UI finished _finish_ui_setup
+2025-09-06 20:52:03 - Scroll event but no target found: delta=1
+2025-09-06 20:52:03 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:52:04 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(-1, -1, 1222, 976)
+2025-09-06 20:52:04 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(-1, -1, 1742, 1056)
+2025-09-06 20:52:04 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:52:04 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:52:05 - Scroll event but no target found: delta=1
+2025-09-06 20:52:05 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:54:34 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:54:34 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-06 20:54:34 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:54:34 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:54:34 - UI finished _finish_ui_setup
+2025-09-06 20:54:34 - Scroll event but no target found: delta=1
+2025-09-06 20:54:34 - Self-test: generated <MouseWheel> on container
+2025-09-06 20:54:34 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-06 20:54:34 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-06 20:54:34 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:54:34 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-06 20:54:36 - Scroll event but no target found: delta=1
+2025-09-06 20:54:36 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:45:24 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:45:24 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:45:24 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:45:24 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:45:24 - UI finished _finish_ui_setup
+2025-09-07 13:45:24 - Scroll event but no target found: delta=1
+2025-09-07 13:45:24 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:45:24 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:45:24 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:45:24 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:45:24 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:45:26 - Scroll event but no target found: delta=1
+2025-09-07 13:45:26 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:30 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:31 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:31 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:31 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:31 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:31 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:45:48 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:48 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:48 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:48 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:48 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:48 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:48 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:48 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:49 - Scroll event but no target found: delta=1
+2025-09-07 13:45:49 - Scroll event but no target found: delta=1
+2025-09-07 13:45:49 - Scroll event but no target found: delta=1
+2025-09-07 13:45:49 - Scroll event but no target found: delta=1
+2025-09-07 13:45:53 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:53 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:53 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:53 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:53 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:53 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:54 - Scroll event but no target found: delta=2
+2025-09-07 13:45:54 - Scroll event but no target found: delta=1
+2025-09-07 13:45:54 - Scroll event but no target found: delta=1
+2025-09-07 13:45:54 - Scroll event but no target found: delta=2
+2025-09-07 13:45:54 - Scroll event but no target found: delta=1
+2025-09-07 13:45:54 - Scroll event but no target found: delta=1
+2025-09-07 13:45:59 - Scroll event: delta=-1, target=.!frame4.!frame5.!notebook.!frame.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:59 - Scroll event: delta=-1, target=.!frame4.!frame5.!notebook.!frame.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:45:59 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:59 - Scroll event but no target found: delta=-1
+2025-09-07 13:45:59 - Scroll event but no target found: delta=1
+2025-09-07 13:45:59 - Scroll event but no target found: delta=1
+2025-09-07 13:45:59 - Scroll event but no target found: delta=1
+2025-09-07 13:45:59 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:46:00 - Scroll event but no target found: delta=2
+2025-09-07 13:46:00 - Scroll event but no target found: delta=1
+2025-09-07 13:47:12 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:47:12 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:47:12 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:47:12 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:47:12 - UI finished _finish_ui_setup
+2025-09-07 13:47:12 - Scroll event but no target found: delta=1
+2025-09-07 13:47:12 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:47:12 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:47:12 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:47:12 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:47:13 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:47:14 - Scroll event but no target found: delta=1
+2025-09-07 13:47:14 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:47:25 - Scroll event: delta=-2, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:25 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:25 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:25 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:25 - Scroll event: delta=-1, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:25 - Scroll event: delta=-4, target=.!frame4.!frame2.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:27 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:27 - Scroll event: delta=-1, target=.!frame4.!frame4.!manualscrolledframe.!canvas, widget_class=Canvas
+2025-09-07 13:47:34 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:34 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:35 - Scroll event but no target found: delta=-1
+2025-09-07 13:47:38 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:38 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:38 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:38 - Scroll event: delta=3, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:39 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:39 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:39 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame3.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:39 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame3.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:39 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame3.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:39 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame3.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:39 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame3.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=-2, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=2, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview, widget_class=Treeview
+2025-09-07 13:47:40 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:41 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:47:41 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:48:38 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:48:38 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:48:38 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:48:38 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:48:38 - UI finished _finish_ui_setup
+2025-09-07 13:48:38 - Scroll event but no target found: delta=1
+2025-09-07 13:48:38 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:48:39 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:48:39 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:48:39 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:48:39 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:48:40 - Scroll event but no target found: delta=1
+2025-09-07 13:48:40 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:49:21 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:49:21 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:49:21 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:49:21 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:49:21 - UI finished _finish_ui_setup
+2025-09-07 13:49:21 - Scroll event but no target found: delta=1
+2025-09-07 13:49:21 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:49:21 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1223, 977)
+2025-09-07 13:49:21 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:49:21 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:49:21 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:49:23 - Scroll event but no target found: delta=1
+2025-09-07 13:49:23 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:51:41 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:51:41 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:51:41 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:51:41 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:51:41 - UI finished _finish_ui_setup
+2025-09-07 13:51:41 - Scroll event but no target found: delta=1
+2025-09-07 13:51:41 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:51:41 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:51:41 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:51:41 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:51:41 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:51:43 - Fallback candidate <tkinter.ttk.Treeview object .!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview> used for scrolling
+2025-09-07 13:51:43 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:51:43 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:43 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:44 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:44 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:44 - Scroll event: delta=1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:45 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:45 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:51:46 - Scroll event: delta=2, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:52:38 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:52:38 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:52:38 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:52:38 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:52:38 - UI finished _finish_ui_setup
+2025-09-07 13:52:38 - Scroll event but no target found: delta=1
+2025-09-07 13:52:38 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:52:38 - Geometry dump (games): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:52:38 - Geometry dump (achievements): root=(168,25) size=(1752x1055) req=(389x265) canvas_bbox=(0, 0, 1743, 1057)
+2025-09-07 13:52:38 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:52:38 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:52:40 - Fallback candidate <tkinter.ttk.Treeview object .!frame4.!frame3.!frame.!safescrolledframe.!notebook.!frame4.!labelframe.!treeview> used for scrolling
+2025-09-07 13:52:40 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:52:41 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:52:41 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:52:41 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:52:41 - Scroll event: delta=-1, target=.!frame4.!frame3.!frame.!safescrolledframe, widget_class=TFrame
+2025-09-07 13:52:41 - Fallback scrolled_frame games_scrolled_frame used for scrolling
+2025-09-07 13:55:04 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:55:04 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:55:04 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:55:04 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:55:04 - UI finished _finish_ui_setup
+2025-09-07 13:55:04 - Scroll event but no target found: delta=1
+2025-09-07 13:55:04 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:55:04 - Geometry dump (games): root=(168,44) size=(1752x1036) req=(389x265) canvas_bbox=(0, 0, 1743, 1038)
+2025-09-07 13:55:04 - Geometry dump (achievements): root=(168,44) size=(1752x1036) req=(389x265) canvas_bbox=(0, 0, 1743, 1038)
+2025-09-07 13:55:04 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:55:04 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:55:06 - Scroll event but no target found: delta=1
+2025-09-07 13:55:06 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:58:10 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:58:10 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 13:58:10 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:58:10 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:58:10 - UI finished _finish_ui_setup
+2025-09-07 13:58:10 - Scroll event but no target found: delta=1
+2025-09-07 13:58:10 - Self-test: generated <MouseWheel> on container
+2025-09-07 13:58:11 - Geometry dump (games): root=(204,44) size=(1716x1036) req=(389x265) canvas_bbox=(0, 0, 1707, 1038)
+2025-09-07 13:58:11 - Geometry dump (achievements): root=(204,44) size=(1716x1036) req=(389x265) canvas_bbox=(0, 0, 1707, 1038)
+2025-09-07 13:58:11 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:58:11 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 13:58:13 - Scroll event but no target found: delta=1
+2025-09-07 13:58:13 - Self-test: generated <MouseWheel> on container
+2025-09-07 14:11:22 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 14:11:22 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 14:11:22 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:11:22 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:11:22 - UI finished _finish_ui_setup
+2025-09-07 14:11:22 - Scroll event but no target found: delta=1
+2025-09-07 14:11:22 - Self-test: generated <MouseWheel> on container
+2025-09-07 14:11:22 - Geometry dump (games): root=(204,44) size=(1196x956) req=(389x265) canvas_bbox=(0, 0, 1187, 958)
+2025-09-07 14:11:22 - Geometry dump (achievements): root=(204,44) size=(1716x1036) req=(389x265) canvas_bbox=(0, 0, 1707, 1038)
+2025-09-07 14:11:22 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:11:22 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:11:24 - Scroll event but no target found: delta=1
+2025-09-07 14:11:24 - Self-test: generated <MouseWheel> on container
+2025-09-07 14:16:59 - Geometry dump (achievements): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 14:16:59 - Geometry dump (games): root=(8,31) size=(1x1) req=(1x1) canvas_bbox=(0, 0, 1, 1)
+2025-09-07 14:16:59 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:16:59 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:16:59 - UI finished _finish_ui_setup
+2025-09-07 14:16:59 - Scroll event but no target found: delta=1
+2025-09-07 14:16:59 - Self-test: generated <MouseWheel> on container
+2025-09-07 14:16:59 - Geometry dump (games): root=(204,44) size=(1196x956) req=(389x265) canvas_bbox=(0, 0, 1187, 958)
+2025-09-07 14:16:59 - Geometry dump (achievements): root=(204,44) size=(1716x1036) req=(389x265) canvas_bbox=(0, 0, 1707, 1038)
+2025-09-07 14:16:59 - Internals dump (games): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame2.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame2.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame2.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:16:59 - Internals dump (achievements): type=<class '__main__.ManualScrolledFrame'> repr=<__main__.ManualScrolledFrame object .!frame4.!frame4.!manualscrolledframe> class=TFrame | attr.canvas=present | attr.container=present | attr.frame=None | attr.interior=None | attr.viewport=None | attr.scrollable_frame=None | attr.canvas_widget=None | children=[.!frame4.!frame4.!manualscrolledframe.!canvas class=Canvas;.!frame4.!frame4.!manualscrolledframe.!scrollbar class=TScrollbar]
+2025-09-07 14:17:01 - Scroll event but no target found: delta=1
+2025-09-07 14:17:01 - Self-test: generated <MouseWheel> on container

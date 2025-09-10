@@ -1074,3 +1074,296 @@ Traceback (most recent call last):
     raise HTTPError(req.full_url, code, msg, hdrs, fp)
 urllib.error.HTTPError: HTTP Error 404: Not Found
 ----------------------------------------
+Rapport d'erreur - 2025-08-23 18:11:21
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2487, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:28:29
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2608, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:29:00
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2608, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:32:20
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2632, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:33:29
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2666, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:36:59
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2690, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:39:55
+Message: L'application a rencontré une erreur fatale et va se fermer.
+Erreur: cannot use geometry manager grid inside .!frame3.!frame5.!notebook.!frame4 which already has slaves managed by pack
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 3301, in <module>
+    app = GameLauncher()
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 375, in __init__
+    self.create_pro_page()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 1553, in create_pro_page
+    self.pro_suggestion_frame.grid(row=1, column=0, sticky="nsew")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2699, in grid_configure
+    self.tk.call(
+    ~~~~~~~~~~~~^
+          ('grid', 'configure', self._w)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+          + self._options(cnf, kw))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: cannot use geometry manager grid inside .!frame3.!frame5.!notebook.!frame4 which already has slaves managed by pack
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:45:40
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2830, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:46:00
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 2830, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:50:25
+Message: L'application a rencontré une erreur fatale et va se fermer.
+Erreur: type object 'StyleBuilderTTK' has no attribute 'create_menu_style'
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 3528, in <module>
+    app = GameLauncher()
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 354, in __init__
+    self._init_styles()
+    ~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 906, in _init_styles
+    self.app_style.configure("Menubar.TFrame", background="#212529")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\style.py", line 578, in configure
+    ttkstyle = Bootstyle.update_ttk_widget_style(None, style)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\style.py", line 5295, in update_ttk_widget_style
+    builder_method = builder.name_to_method(method_name)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\site-packages\ttkbootstrap\style.py", line 1241, in name_to_method
+    func = getattr(StyleBuilderTTK, method_name)
+AttributeError: type object 'StyleBuilderTTK' has no attribute 'create_menu_style'. Did you mean: 'create_entry_style'?
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:53:11
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 3014, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------
+Rapport d'erreur - 2025-08-23 18:55:26
+Message: Failed to check for updates
+Erreur: HTTP Error 404: Not Found
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Utilisateur\Desktop\jeux en python\lancer1.py", line 3016, in _check_for_updates_worker
+    with urllib.request.urlopen(UPDATE_URL, timeout=10) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 495, in open
+    response = meth(req, response)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 604, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 533, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\Utilisateur\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+----------------------------------------

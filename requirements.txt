@@ -1,0 +1,6 @@
+ttkbootstrap
+Pillow
+playsound==1.2.2
+matplotlib
+platformdirs
+requests
